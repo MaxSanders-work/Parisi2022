@@ -1,6 +1,6 @@
 # Parisi2022
 Laboratorio 5 cifrado simetrico  
 Para testear el codigo:  
-1.- Clonar el repositorio  
-2.- Abrir una terminal desde la carpeta api_parisi  
-3.- ejecutar el comanod: "node test.js"  
+1.- Ejecutar el archivo "hola.py" (Tener flask instalado y python3.8)  
+2.- Abrir el archivo infectado con el codigo corriendo  
+3.- Ingresar la contraseña del pdf (123456)
